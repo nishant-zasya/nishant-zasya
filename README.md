@@ -31,7 +31,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-0078d7?style=flat&logo=GoogleChrome&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
-## Connect with Me :handshake
+## Connect with Me 🤝
 <!-- <a href="https://www.linkedin.com/in/arunkumarnarotra" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <a href="https://github.com/nishant-zasya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:nishant@zasyasolutions.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
